@@ -26,4 +26,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-API src https://www.gamerpower.com/api/giveaways
+API src from [gamepower]('https://www.gamerpower.com/api/giveaways')
+API source from [IGDB]('https://api-docs.igdb.com/#getting-started')
